@@ -1,0 +1,14 @@
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\bin\Debug\net10.0\MasterMind terminado.exe
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\bin\Debug\net10.0\MasterMind terminado.deps.json
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\bin\Debug\net10.0\MasterMind terminado.runtimeconfig.json
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\bin\Debug\net10.0\MasterMind terminado.dll
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\bin\Debug\net10.0\MasterMind terminado.pdb
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\obj\Debug\net10.0\MasterMind terminado.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\obj\Debug\net10.0\MasterMind terminado.AssemblyInfoInputs.cache
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\obj\Debug\net10.0\MasterMind terminado.AssemblyInfo.cs
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\obj\Debug\net10.0\MasterMind terminado.csproj.CoreCompileInputs.cache
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\obj\Debug\net10.0\MasterMind terminado.dll
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\obj\Debug\net10.0\refint\MasterMind terminado.dll
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\obj\Debug\net10.0\MasterMind terminado.pdb
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\obj\Debug\net10.0\MasterMind terminado.genruntimeconfig.cache
+c:\Users\Dell\C SHARP\MasterMind terminado\MasterMind terminado\obj\Debug\net10.0\ref\MasterMind terminado.dll
